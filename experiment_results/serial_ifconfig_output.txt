@@ -1,0 +1,264 @@
+1715014812.279745;m3-4;ifconfig
+1715014812.280092;m3-4;Iface  6  HWaddr: 7E:E3  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.280228;m3-4;          
+1715014812.280344;m3-4;          Long HWaddr: 5A:0C:CA:B1:82:AF:7E:E3 
+1715014812.280601;m3-1;ifconfig
+1715014812.280725;m3-1;Iface  5  HWaddr: 28:DC  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.280826;m3-1;          
+1715014812.280910;m3-1;          Long HWaddr: BA:D0:AA:3C:BE:56:A8:DC 
+1715014812.281026;m3-10;ifconfig
+1715014812.281116;m3-10;Iface  6  HWaddr: 51:91  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.281206;m3-10;          
+1715014812.281290;m3-10;          Long HWaddr: DE:E3:67:3F:27:43:51:91 
+1715014812.281412;m3-12;ifconfig
+1715014812.281506;m3-12;Iface  6  HWaddr: 02:2D  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.281596;m3-12;          
+1715014812.281679;m3-12;          Long HWaddr: 5A:8C:FE:07:96:8D:02:2D 
+1715014812.281765;m3-12;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.281877;m3-2;ifconfig
+1715014812.281961;m3-2;Iface  6  HWaddr: 3F:AB  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.282084;m3-2;          
+1715014812.282263;m3-2;          Long HWaddr: 6E:BE:DF:0A:8D:25:3F:AB 
+1715014812.282418;m3-3;ifconfig
+1715014812.282518;m3-3;Iface  6  HWaddr: 19:F8  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.282608;m3-3;          
+1715014812.282709;m3-3;          Long HWaddr: A6:BE:23:C9:ED:78:99:F8 
+1715014812.282795;m3-3;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.282917;m3-5;ifconfig
+1715014812.283007;m3-5;Iface  6  HWaddr: 4F:3C  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.283096;m3-5;          
+1715014812.283178;m3-5;          Long HWaddr: AE:99:AB:84:13:38:CF:3C 
+1715014812.283285;m3-6;ifconfig
+1715014812.283368;m3-6;Iface  6  HWaddr: 59:19  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.283457;m3-6;          
+1715014812.283567;m3-6;          Long HWaddr: DE:82:19:66:AF:DB:D9:19 
+1715014812.283661;m3-6;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.283772;m3-7;ifconfig
+1715014812.283859;m3-7;Iface  6  HWaddr: 14:16  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.283947;m3-7;          
+1715014812.284030;m3-7;          Long HWaddr: 66:89:1A:1B:06:C0:94:16 
+1715014812.284138;m3-9;ifconfig
+1715014812.284221;m3-9;Iface  6  HWaddr: 1F:26  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.284318;m3-9;          
+1715014812.284408;m3-9;          Long HWaddr: E6:C3:1B:00:6B:B6:9F:26 
+1715014812.284582;m3-8;ifconfig
+1715014812.284671;m3-8;Iface  6  HWaddr: 75:1C  Channel: 26  NID: 0x23  PHY: O-QPSK 
+1715014812.284759;m3-8;          
+1715014812.284841;m3-8;          Long HWaddr: A6:CF:C1:84:41:5C:F5:1C 
+1715014812.284927;m3-8;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.285016;m3-8;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.285113;m3-8;          RTR_ADV  6LO  IPHC  
+1715014812.291456;m3-4;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.291726;m3-4;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.291856;m3-4;          RTR_ADV  6LO  IPHC  
+1715014812.291943;m3-4;          Source address length: 8
+1715014812.292022;m3-4;          Link type: wireless
+1715014812.292089;m3-4;          inet6 addr: fe80::580c:cab1:82af:7ee3  scope: link  VAL
+1715014812.292157;m3-4;          inet6 group: ff02::2
+1715014812.292222;m3-4;          inet6 group: ff02::1
+1715014812.292285;m3-4;          inet6 group: ff02::1:ffaf:7ee3
+1715014812.292349;m3-4;          inet6 group: ff02::1a
+1715014812.292413;m3-4;          
+1715014812.292481;m3-4;          Statistics for Layer 2
+1715014812.292551;m3-4;            RX packets 93  bytes 3901
+1715014812.292735;m3-1;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.292855;m3-1;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.292957;m3-1;          RTR_ADV  6LO  IPHC  
+1715014812.293053;m3-1;          Source address length: 8
+1715014812.293149;m3-1;          Link type: wireless
+1715014812.293243;m3-1;          inet6 addr: fe80::b8d0:aa3c:be56:a8dc  scope: link  VAL
+1715014812.293354;m3-1;          inet6 group: ff02::2
+1715014812.293460;m3-1;          inet6 group: ff02::1
+1715014812.293557;m3-1;          inet6 group: ff02::1:ff56:a8dc
+1715014812.293654;m3-1;          inet6 group: ff02::1a
+1715014812.293748;m3-1;          
+1715014812.293841;m3-1;          Statistics for Layer 2
+1715014812.293936;m3-1;            RX packets 17  bytes 633
+1715014812.294033;m3-1;            TX packets 6 (Multicast: 6)  bytes 244
+1715014812.294177;m3-10;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.294349;m3-10;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.294484;m3-10;          RTR_ADV  6LO  IPHC  
+1715014812.294585;m3-10;          Source address length: 8
+1715014812.294681;m3-10;          Link type: wireless
+1715014812.294778;m3-10;          inet6 addr: fe80::dce3:673f:2743:5191  scope: link  VAL
+1715014812.294888;m3-10;          inet6 group: ff02::2
+1715014812.294994;m3-10;          inet6 group: ff02::1
+1715014812.295090;m3-10;          inet6 group: ff02::1:ff43:5191
+1715014812.295187;m3-10;          inet6 group: ff02::1a
+1715014812.295280;m3-10;          
+1715014812.295373;m3-10;          Statistics for Layer 2
+1715014812.295466;m3-10;            RX packets 102  bytes 4232
+1715014812.295590;m3-10;            TX packets 11 (Multicast: 11)  bytes 445
+1715014812.295732;m3-12;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.295837;m3-12;          RTR_ADV  6LO  IPHC  
+1715014812.295933;m3-12;          Source address length: 8
+1715014812.296028;m3-12;          Link type: wireless
+1715014812.296122;m3-12;          inet6 addr: fe80::588c:fe07:968d:22d  scope: link  VAL
+1715014812.296221;m3-12;          inet6 group: ff02::2
+1715014812.296316;m3-12;          inet6 group: ff02::1
+1715014812.296420;m3-12;          inet6 group: ff02::1:ff8d:22d
+1715014812.296527;m3-12;          inet6 group: ff02::1a
+1715014812.296622;m3-12;          
+1715014812.296714;m3-12;          Statistics for Layer 2
+1715014812.296808;m3-12;            RX packets 99  bytes 4089
+1715014812.296903;m3-12;            TX packets 11 (Multicast: 11)  bytes 445
+1715014812.297034;m3-2;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.297137;m3-2;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.297246;m3-2;          RTR_ADV  6LO  IPHC  
+1715014812.297350;m3-2;          Source address length: 8
+1715014812.297448;m3-2;          Link type: wireless
+1715014812.297544;m3-2;          inet6 addr: fe80::6cbe:df0a:8d25:3fab  scope: link  VAL
+1715014812.297643;m3-2;          inet6 group: ff02::2
+1715014812.297739;m3-2;          inet6 group: ff02::1
+1715014812.297833;m3-2;          inet6 group: ff02::1:ff25:3fab
+1715014812.297930;m3-2;          inet6 group: ff02::1a
+1715014812.298035;m3-2;          
+1715014812.298136;m3-2;          Statistics for Layer 2
+1715014812.298293;m3-2;            RX packets 110  bytes 4492
+1715014812.298455;m3-3;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.298525;m3-3;          RTR_ADV  6LO  IPHC  
+1715014812.298580;m3-3;          Source address length: 8
+1715014812.298640;m3-3;          Link type: wireless
+1715014812.298700;m3-3;          inet6 addr: fe80::a4be:23c9:ed78:99f8  scope: link  VAL
+1715014812.298757;m3-3;          inet6 group: ff02::2
+1715014812.298811;m3-3;          inet6 group: ff02::1
+1715014812.298864;m3-3;          inet6 group: ff02::1:ff78:99f8
+1715014812.298919;m3-3;          inet6 group: ff02::1a
+1715014812.298972;m3-3;          
+1715014812.299025;m3-3;          Statistics for Layer 2
+1715014812.299084;m3-3;            RX packets 93  bytes 3887
+1715014812.299145;m3-3;            TX packets 11 (Multicast: 11)  bytes 445
+1715014812.299226;m3-5;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.299286;m3-5;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.299343;m3-5;          RTR_ADV  6LO  IPHC  
+1715014812.299397;m3-5;          Source address length: 8
+1715014812.299452;m3-5;          Link type: wireless
+1715014812.299522;m3-5;          inet6 addr: fe80::ac99:ab84:1338:cf3c  scope: link  VAL
+1715014812.299585;m3-5;          inet6 group: ff02::2
+1715014812.299639;m3-5;          inet6 group: ff02::1
+1715014812.299693;m3-5;          inet6 group: ff02::1:ff38:cf3c
+1715014812.299747;m3-5;          inet6 group: ff02::1a
+1715014812.299800;m3-5;          
+1715014812.299853;m3-5;          Statistics for Layer 2
+1715014812.299906;m3-5;            RX packets 92  bytes 3844
+1715014812.299984;m3-6;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.300047;m3-6;          RTR_ADV  6LO  IPHC  
+1715014812.300102;m3-6;          Source address length: 8
+1715014812.300156;m3-6;          Link type: wireless
+1715014812.300210;m3-6;          inet6 addr: fe80::dc82:1966:afdb:d919  scope: link  VAL
+1715014812.300267;m3-6;          inet6 group: ff02::2
+1715014812.300321;m3-6;          inet6 group: ff02::1
+1715014812.300375;m3-6;          inet6 group: ff02::1:ffdb:d919
+1715014812.300436;m3-6;          inet6 group: ff02::1a
+1715014812.300495;m3-6;          
+1715014812.300548;m3-6;          Statistics for Layer 2
+1715014812.300602;m3-6;            RX packets 101  bytes 4175
+1715014812.300656;m3-6;            TX packets 11 (Multicast: 11)  bytes 445
+1715014812.300729;m3-7;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.300788;m3-7;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.300844;m3-7;          RTR_ADV  6LO  IPHC  
+1715014812.300904;m3-7;          Source address length: 8
+1715014812.300964;m3-7;          Link type: wireless
+1715014812.301019;m3-7;          inet6 addr: fe80::6489:1a1b:6c0:9416  scope: link  VAL
+1715014812.301075;m3-7;          inet6 group: ff02::2
+1715014812.301128;m3-7;          inet6 group: ff02::1
+1715014812.301182;m3-7;          inet6 group: ff02::1:ffc0:9416
+1715014812.301235;m3-7;          inet6 group: ff02::1a
+1715014812.301288;m3-7;          
+1715014812.301346;m3-7;          Statistics for Layer 2
+1715014812.301406;m3-7;            RX packets 89  bytes 3771
+1715014812.301479;m3-9;           TX-Power: 0dBm  State: IDLE  max. Retrans.: 3  CSMA Retries: 4 
+1715014812.301538;m3-9;          AUTOACK  ACK_REQ  CSMA  L2-PDU:102  MTU:1280  HL:64  RTR  
+1715014812.301594;m3-9;          RTR_ADV  6LO  IPHC  
+1715014812.301648;m3-9;          Source address length: 8
+1715014812.301702;m3-9;          Link type: wireless
+1715014812.301756;m3-9;          inet6 addr: fe80::e4c3:1b00:6bb6:9f26  scope: link  VAL
+1715014812.301818;m3-9;          inet6 group: ff02::2
+1715014812.301877;m3-9;          inet6 group: ff02::1
+1715014812.301931;m3-9;          inet6 group: ff02::1:ffb6:9f26
+1715014812.301986;m3-9;          inet6 group: ff02::1a
+1715014812.302039;m3-9;          
+1715014812.302091;m3-9;          Statistics for Layer 2
+1715014812.302144;m3-9;            RX packets 99  bytes 4117
+1715014812.302275;m3-8;          Source address length: 8
+1715014812.302341;m3-8;          Link type: wireless
+1715014812.302406;m3-8;          inet6 addr: fe80::a4cf:c184:415c:f51c  scope: link  VAL
+1715014812.302473;m3-8;          inet6 group: ff02::2
+1715014812.302527;m3-8;          inet6 group: ff02::1
+1715014812.302583;m3-8;          inet6 group: ff02::1:ff5c:f51c
+1715014812.302638;m3-8;          inet6 group: ff02::1a
+1715014812.302697;m3-8;          
+1715014812.302756;m3-8;          Statistics for Layer 2
+1715014812.302810;m3-8;            RX packets 100  bytes 4160
+1715014812.302865;m3-8;            TX packets 11 (Multicast: 11)  bytes 445
+1715014812.302920;m3-8;            TX succeeded 11 errors 0
+1715014812.302974;m3-8;          Statistics for IPv6
+1715014812.303027;m3-8;            RX packets 100  bytes 6260
+1715014812.306445;m3-2;            TX packets 11 (Multicast: 11)  bytes 445
+1715014812.306582;m3-2;            TX succeeded 11 errors 0
+1715014812.306652;m3-2;          Statistics for IPv6
+1715014812.306720;m3-2;            RX packets 110  bytes 6802
+1715014812.306783;m3-2;            TX packets 11 (Multicast: 11)  bytes 676
+1715014812.306844;m3-2;            TX succeeded 11 errors 0
+1715014812.306900;m3-2;
+1715014812.306982;m3-4;            TX packets 11 (Multicast: 11)  bytes 445
+1715014812.307048;m3-4;            TX succeeded 11 errors 0
+1715014812.307105;m3-4;          Statistics for IPv6
+1715014812.307159;m3-4;            RX packets 93  bytes 5854
+1715014812.307214;m3-4;            TX packets 11 (Multicast: 11)  bytes 676
+1715014812.307269;m3-4;            TX succeeded 11 errors 0
+1715014812.307323;m3-4;
+1715014812.307431;m3-1;            TX succeeded 6 errors 0
+1715014812.307516;m3-1;          Statistics for IPv6
+1715014812.307578;m3-1;            RX packets 17  bytes 990
+1715014812.307634;m3-1;            TX packets 6 (Multicast: 6)  bytes 370
+1715014812.307690;m3-1;            TX succeeded 6 errors 0
+1715014812.307745;m3-1;
+1715014812.307814;m3-10;            TX succeeded 11 errors 0
+1715014812.307870;m3-10;          Statistics for IPv6
+1715014812.307931;m3-10;            RX packets 102  bytes 6374
+1715014812.307991;m3-10;            TX packets 11 (Multicast: 11)  bytes 676
+1715014812.308048;m3-10;            TX succeeded 11 errors 0
+1715014812.308103;m3-10;
+1715014812.308171;m3-12;            TX succeeded 11 errors 0
+1715014812.308228;m3-12;          Statistics for IPv6
+1715014812.308282;m3-12;            RX packets 99  bytes 6168
+1715014812.308337;m3-12;            TX packets 11 (Multicast: 11)  bytes 676
+1715014812.308400;m3-12;            TX succeeded 11 errors 0
+1715014812.308459;m3-12;
+1715014812.308528;m3-3;            TX succeeded 11 errors 0
+1715014812.308584;m3-3;          Statistics for IPv6
+1715014812.308639;m3-3;            RX packets 93  bytes 5840
+1715014812.308693;m3-3;            TX packets 11 (Multicast: 11)  bytes 676
+1715014812.308749;m3-3;            TX succeeded 11 errors 0
+1715014812.308780;m3-3;
+1715014812.308824;m3-5;            TX packets 11 (Multicast: 11)  bytes 445
+1715014812.308861;m3-5;            TX succeeded 11 errors 0
+1715014812.308893;m3-5;          Statistics for IPv6
+1715014812.308925;m3-5;            RX packets 92  bytes 5776
+1715014812.308957;m3-5;            TX packets 11 (Multicast: 11)  bytes 676
+1715014812.308989;m3-5;            TX succeeded 11 errors 0
+1715014812.309021;m3-5;
+1715014812.309059;m3-6;            TX succeeded 11 errors 0
+1715014812.309096;m3-6;          Statistics for IPv6
+1715014812.309131;m3-6;            RX packets 101  bytes 6296
+1715014812.309164;m3-6;            TX packets 11 (Multicast: 11)  bytes 676
+1715014812.309196;m3-6;            TX succeeded 11 errors 0
+1715014812.309228;m3-6;
+1715014812.309267;m3-7;            TX packets 11 (Multicast: 11)  bytes 445
+1715014812.309301;m3-7;            TX succeeded 11 errors 0
+1715014812.309333;m3-7;          Statistics for IPv6
+1715014812.309368;m3-7;            RX packets 89  bytes 5640
+1715014812.309404;m3-7;            TX packets 11 (Multicast: 11)  bytes 676
+1715014812.309436;m3-7;            TX succeeded 11 errors 0
+1715014812.309468;m3-7;
+1715014812.309507;m3-9;            TX packets 11 (Multicast: 11)  bytes 445
+1715014812.309540;m3-9;            TX succeeded 11 errors 0
+1715014812.309572;m3-9;          Statistics for IPv6
+1715014812.309603;m3-9;            RX packets 99  bytes 6196
+1715014812.309639;m3-9;            TX packets 11 (Multicast: 11)  bytes 676
+1715014812.309674;m3-9;            TX succeeded 11 errors 0
+1715014812.309706;m3-9;
+1715014812.310239;m3-8;            TX packets 11 (Multicast: 11)  bytes 676
+1715014812.310281;m3-8;            TX succeeded 11 errors 0
+1715014812.310319;m3-8;
