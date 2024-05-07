@@ -1,0 +1,15 @@
+fe80::580c:cab1:82af:7ee3
+fe80::b8d0:aa3c:be56:a8dc //br
+fe80::dce3:673f:2743:5191
+fe80::588c:fe07:968d:22d
+fe80::6cbe:df0a:8d25:3fab
+fe80::a4be:23c9:ed78:99f8
+fe80::ac99:ab84:1338:cf3c
+fe80::dc82:1966:afdb:d919
+fe80::6489:1a1b:6c0:9416
+fe80::e4c3:1b00:6bb6:9f26
+fe80::a4cf:c184:415c:f51c
+
+
+
+
