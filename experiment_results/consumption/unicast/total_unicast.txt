@@ -1,0 +1,66 @@
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_1.oml
+Total duration: 1804 s
+Average voltage: 3.23 V
+Average current: 37 mA
+Average power: 119 mW
+Total energy consumption: 215 Ws
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_2.oml
+Total duration: 1804 s
+Average voltage: 3.29 V
+Average current: 37 mA
+Average power: 121 mW
+Total energy consumption: 218 Ws
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_3.oml
+Total duration: 1804 s
+Average voltage: 3.32 V
+Average current: 37 mA
+Average power: 122 mW
+Total energy consumption: 220 Ws
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_4.oml
+Total duration: 1804 s
+Average voltage: 3.27 V
+Average current: 36 mA
+Average power: 118 mW
+Total energy consumption: 213 Ws
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_5.oml
+Total duration: 1804 s
+Average voltage: 3.24 V
+Average current: 37 mA
+Average power: 120 mW
+Total energy consumption: 216 Ws
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_6.oml
+Total duration: 1804 s
+Average voltage: 3.24 V
+Average current: 37 mA
+Average power: 120 mW
+Total energy consumption: 215 Ws
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_7.oml
+Total duration: 1804 s
+Average voltage: 3.28 V
+Average current: 37 mA
+Average power: 121 mW
+Total energy consumption: 217 Ws
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_8.oml
+Total duration: 1804 s
+Average voltage: 3.35 V
+Average current: 37 mA
+Average power: 124 mW
+Total energy consumption: 224 Ws
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_9.oml
+Total duration: 1804 s
+Average voltage: 3.25 V
+Average current: 36 mA
+Average power: 117 mW
+Total energy consumption: 211 Ws
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_10.oml
+Total duration: 1804 s
+Average voltage: 3.27 V
+Average current: 37 mA
+Average power: 120 mW
+Total energy consumption: 217 Ws
+/home/dfonovic/fit_iot_lab/consumption/unicast/consumption/m3_12.oml
+Total duration: 1804 s
+Average voltage: 3.27 V
+Average current: 37 mA
+Average power: 121 mW
+Total energy consumption: 217 Ws
